@@ -1,0 +1,3 @@
+[submodule "solana-api"]
+	path = solana-api
+	url = https://github.com/paidworkco/solana-api
