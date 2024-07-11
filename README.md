@@ -21,10 +21,10 @@
     <a href="http://commitizen.github.io/cz-cli/">
         <img alt="Commitizen friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" />
     </a>
-    <a href="https://github.com/paidwork/solana-sdk-php">
-        <img alt="License" src="https://img.shields.io/github/license/paidwork/solana-sdk-php" />
+    <a href="https://github.com/paidwork/solana-sdk-unity">
+        <img alt="License" src="https://img.shields.io/github/license/paidwork/solana-sdk-unity" />
     </a>
-    <a href="https://github.com/paidwork/solana-sdk-php/pulls">
+    <a href="https://github.com/paidwork/solana-sdk-unity/pulls">
         <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
     </a>
 </p>
